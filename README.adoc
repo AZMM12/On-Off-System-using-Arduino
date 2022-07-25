@@ -19,7 +19,7 @@ Controlling Relay using NPN Transistor and Push Button to Switch on and off and 
 ....
  Second_EE_Task
   ├── arduino_relay_button_npn_control1.ino   =>  Arduino Code file
-  ├── Arduino RElay NPN COntrol.png     => an image of the required schematics
+  ├── Arduino RElay NPN Control.png     => an image of the required schematics
   └── ReadMe.adoc      => this file
 ....
 
