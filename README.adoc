@@ -1,0 +1,33 @@
+= Project: {Second_Task_EE}
+
+=== Author: azmm12.
+=== Email: {Abdulazizmmutiri@gmail.com} .
+=== Date: 25/07/2022 .
+=== Revision: version#1 .
+=== License: Public Domain .
+
+== Description of project:
+Controlling Relay using NPN Transistor and Push Button to Switch on and off and also switches off by it self after some defined delay.
+
+== Installation Steps:
+1. Use Tinkercad to simulate the project.
+2. Make connections of parts and add Light bulp as the motor or the part need to switch on and off
+4. Write Code for Arduino to Control the process .
+6. Simulate the Code .
+
+=== Folder structure
+
+....
+ Second_EE_Task
+  ├── arduino_relay_button_npn_control1.ino   =>  Arduino Code file
+  ├── Arduino RElay NPN COntrol.png     => an image of the required schematics
+  └── ReadMe.adoc      => this file
+....
+
+=== Contributing
+To contribute to this project please contact azmm12 https://id.arduino.cc/azmm12
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
